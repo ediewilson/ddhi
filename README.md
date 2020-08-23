@@ -86,4 +86,4 @@ Run the following commands within the ddhi directory on your terminal after you 
 `git push`
 
 
-And with that you're DONE!
+Come on here, make your pull request, and with that you're DONE!
