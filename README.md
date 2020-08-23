@@ -20,6 +20,8 @@ After you complete these steps, type the following into the Terminal window, pre
 `pip3 install pyqt5`
 
 Hopefully all went well... you now have python3 on your computer!
+
+
 ![](https://media.giphy.com/media/2lbhL8dSGMh8I/giphy.gif)
 
 ## Tackling git on Terminal
@@ -38,6 +40,8 @@ Next step is to add the file that you want to edit. Go to your Finder applicatio
 The folder that your git repository lives in should be right there, and you'll want to drag and drop your CSV file with ONLY the place names into the subfolder **CSVs**. 
 
 Give yourself a pat on the back! You're ready to run that program! 
+
+
 ![](https://media.giphy.com/media/s2qXK8wAvkHTO/giphy.gif)
 
 ## Using the program
