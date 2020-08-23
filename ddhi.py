@@ -49,7 +49,7 @@ def makeDict():
 def outputFile(intervieweeName):
     global places, placeDict, newPlaceDict
     
-    newFileName = intervieweeName + '_placeName.csv'
+    newFileName = 'newCSVs/' +intervieweeName + '_placeName.csv'
     outFile = open(newFileName, "w")
 
     outFile.write("name,address,city,latitude,longitude,source\n")
