@@ -52,6 +52,12 @@ Before you start make !!!SURE!!! that you use the command
 to update the dictionary from the repository! If you don't do this... there will be... merge conflicts 
 ![](https://media.giphy.com/media/117gK0K7OZ8UcE/giphy.gif)
 
+Next, make a new branch using
+
+`git checkout -b NAME-OF-YOUR-NEW-BRANCH`
+
+to change onto a branch where you can make database changes. Please don't forget this. 
+
 **Okay, let's get started.**
 To begin running the program, make sure you are in the right folder on terminal (`cd ddhi`), and run 
 
